@@ -1,0 +1,22 @@
+{
+  "name": "term",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghunath07/TERM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghunath07/TERM/issues"
+  },
+  "homepage": "https://github.com/raghunath07/TERM#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
